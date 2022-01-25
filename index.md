@@ -16,7 +16,7 @@ The results are reported as TeamName (submission date): Metric
 
 **Metric**: Average tonal distance in terms of fifths in the Circle of Fifths. (lower is better)
 
-1. Bach (2022-01-23):	0.00
+1. J. S. Bach (2022-01-23):	0.00
 2. Hildegard von Bingen (2022-01-23):	0.04
 3. Baseline (2022-01-12):	0.23
 4. Fela Kuti (2022-01-19):	0.23
@@ -30,7 +30,7 @@ The results are reported as TeamName (submission date): Metric
 
 1. Mozart (2021-12-31): 13.11
 2. Mozart (2021-12-20): 13.11
-3. Bach (2022-01-23): 58.13
+3. J. S. Bach (2022-01-23): 58.13
 4. Baseline (2022-01-12): 58.13
 
 
@@ -40,6 +40,6 @@ The results are reported as TeamName (submission date): Metric
 
 1. Mozart (2021-12-20): 35.42
 2. Mozart (2021-12-31): 33.33
-3. Bach (2022-01-23): 8.33
+3. J. S. Bach (2022-01-23): 8.33
 4. Baseline (2022-01-12): 8.33
 
