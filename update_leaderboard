@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Path to the script
+scd="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+# red=$(dirname $scd)
+
+# Add the path to the main folder to the python script
+export PYTHONPATH=$PYTHONPATH:$scd
+
+# Current date
+dt=$(date +"%Y-%m-%d %T")
+# TODO: find a better/more elegant solution instead
+MSG="Automatic commit. update leaderboard ${dt}"
+git -C ${scd} pull
+git -C ${scd} add index.md 
+git -C ${scd} commit -m "${MSG}"
+git -C ${scd} push
