@@ -20,7 +20,7 @@ The results are reported as TeamName (submission date): Metric
 
 **Metric**: Average Tonal Distance
 
-1. J. S. Bach (2022-01-23): 0.00e+00
+1. J. S. Bach (2022-01-23): 0.00
 2. Björk Guðmundsdóttir (2022-01-25): 0.02
 3. Hildegard von Bingen (2022-01-23): 0.04
 4. Baseline (2022-01-12): 0.23
