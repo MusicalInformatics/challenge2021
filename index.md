@@ -8,6 +8,7 @@ The results are reported as TeamName (submission date): Metric
 
 1. W. A. Mozart (2022-01-14): 0.9689
 2. Björk Guðmundsdóttir (2022-01-04): 0.4559
+2. Björk Guðmundsdóttir (2022-01-25): 0.4559
 3. J. S. Bach (2022-01-23): 0.0298
 4. Baseline (2022-01-12): 0.0116
 4. Sergei Rachmaninoff (2022-01-25): 0.0116
@@ -19,12 +20,13 @@ The results are reported as TeamName (submission date): Metric
 **Metric**: Average Tonal Distance
 
 1. J. S. Bach (2022-01-23): 0.0000
-2. Hildegard von Bingen (2022-01-23): 0.0417
-3. Baseline (2022-01-12): 0.2292
-3. Fela Kuti (2022-01-19): 0.2292
-4. W. A. Mozart (2021-01-11): 0.2917
-5. Sergei Rachmaninoff (2022-01-25): 0.3617
-6. Fela Kuti (2021-09-12): 0.4375
+2. Björk Guðmundsdóttir (2022-01-25): 0.0208
+3. Hildegard von Bingen (2022-01-23): 0.0417
+4. Baseline (2022-01-12): 0.2292
+4. Fela Kuti (2022-01-19): 0.2292
+5. W. A. Mozart (2021-01-11): 0.2917
+6. Sergei Rachmaninoff (2022-01-25): 0.3617
+7. Fela Kuti (2021-09-12): 0.4375
 
 
 # Tempo Estimation
@@ -34,8 +36,9 @@ The results are reported as TeamName (submission date): Metric
 1. Sergei Rachmaninoff (2022-01-25): 7.2114
 2. W. A. Mozart (2021-12-20): 13.1119
 2. W. A. Mozart (2021-12-31): 13.1119
-3. J. S. Bach (2022-01-23): 58.1256
-3. Baseline (2022-01-12): 58.1256
+3. Björk Guðmundsdóttir (2022-01-25): 23.4583
+4. J. S. Bach (2022-01-23): 58.1256
+4. Baseline (2022-01-12): 58.1256
 
 
 # Meter Estimation
@@ -44,6 +47,7 @@ The results are reported as TeamName (submission date): Metric
 
 1. W. A. Mozart (2021-12-20): 35.4167
 2. W. A. Mozart (2021-12-31): 33.3333
+3. Björk Guðmundsdóttir (2022-01-25): 27.0833
 3. Sergei Rachmaninoff (2022-01-25): 27.0833
 4. J. S. Bach (2022-01-23): 8.3333
 4. Baseline (2022-01-12): 8.3333
