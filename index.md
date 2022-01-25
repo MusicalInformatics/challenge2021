@@ -36,11 +36,12 @@ The results are reported as TeamName (submission date): Metric
 
 1. Sergei Rachmaninoff (2022-01-25): 7.2114
 2. Fela Kuti (2022-01-24): 8.5501
-3. W. A. Mozart (2021-12-20): 13.1119
-3. W. A. Mozart (2021-12-31): 13.1119
-4. Björk Guðmundsdóttir (2022-01-25): 23.4583
-5. J. S. Bach (2022-01-23): 58.1256
-5. Baseline (2022-01-12): 58.1256
+3. Hildegard von Bingen (2022-01-21): 8.9145
+4. W. A. Mozart (2021-12-20): 13.1119
+4. W. A. Mozart (2021-12-31): 13.1119
+5. Björk Guðmundsdóttir (2022-01-25): 23.4583
+6. J. S. Bach (2022-01-23): 58.1256
+6. Baseline (2022-01-12): 58.1256
 
 
 # Meter Estimation
@@ -51,6 +52,7 @@ The results are reported as TeamName (submission date): Metric
 2. W. A. Mozart (2021-12-31): 33.3333
 3. Björk Guðmundsdóttir (2022-01-25): 27.0833
 3. Sergei Rachmaninoff (2022-01-25): 27.0833
-4. Fela Kuti (2022-01-24): 17.5000
-5. J. S. Bach (2022-01-23): 8.3333
-5. Baseline (2022-01-12): 8.3333
+4. Hildegard von Bingen (2022-01-21): 25.0000
+5. Fela Kuti (2022-01-24): 17.5000
+6. J. S. Bach (2022-01-23): 8.3333
+6. Baseline (2022-01-12): 8.3333
