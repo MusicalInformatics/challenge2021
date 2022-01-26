@@ -6,15 +6,16 @@ The results are reported as TeamName (submission date): Metric
 
 **Metric**: Median F-Score (%)
 
-1. W. A. Mozart (2022-01-14): 96.89
-2. Björk Guðmundsdóttir (2022-01-04): 45.59
-2. Björk Guðmundsdóttir (2022-01-25): 45.59
-3. J. S. Bach (2022-01-23): 2.98
-4. Fela Kuti (2022-01-24): 1.70
-5. Hildegard von Bingen (2022-01-25): 1.25
-6. Baseline (2022-01-12): 1.16
-6. Sergei Rachmaninoff (2022-01-25): 1.16
-7. W. A. Mozart (2022-01-06): 0.99
+1. Fela Kuti (2022-01-25): 99.15
+2. W. A. Mozart (2022-01-14): 96.89
+3. Björk Guðmundsdóttir (2022-01-04): 45.59
+3. Björk Guðmundsdóttir (2022-01-25): 45.59
+4. J. S. Bach (2022-01-23): 2.98
+5. Fela Kuti (2022-01-24): 1.70
+6. Hildegard von Bingen (2022-01-25): 1.25
+7. Baseline (2022-01-12): 1.16
+7. Sergei Rachmaninoff (2022-01-25): 1.16
+8. W. A. Mozart (2022-01-06): 0.99
 
 
 # Key Estimation
@@ -29,6 +30,7 @@ The results are reported as TeamName (submission date): Metric
 5. W. A. Mozart (2021-01-11): 0.29
 6. Sergei Rachmaninoff (2022-01-25): 0.36
 7. Fela Kuti (2021-09-12): 0.44
+7. Fela Kuti (2022-01-25): 0.44
 
 
 # Tempo Estimation
