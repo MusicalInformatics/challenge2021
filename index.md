@@ -16,6 +16,7 @@ The results are reported as TeamName (submission date): Metric
 |7 | Baseline | (2022-01-12)| 1.16|
 |7 | Sergei Rachmaninoff | (2022-01-25)| 1.16|
 |8 | W. A. Mozart | (2022-01-06)| 0.99|
+|9 | J. S. Bach | (2022-01-25)| 0.47|
 
 
 # Key Estimation
