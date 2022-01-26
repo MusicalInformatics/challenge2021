@@ -5,7 +5,8 @@ The results are reported as TeamName (submission date): Metric
 # Alignment Task
 
 |Rank |Team | Date | Median F-Score (%)|
-|---|---|---|---||1 | Fela Kuti | (2022-01-25)| 99.15|
+|---|---|---|---|
+|1 | Fela Kuti | (2022-01-25)| 99.15|
 |---|---|---|---|
 |2 | W. A. Mozart | (2022-01-14)| 96.89|
 |---|---|---|---|
@@ -30,7 +31,8 @@ The results are reported as TeamName (submission date): Metric
 # Key Estimation
 
 |Rank |Team | Date | Average Tonal Distance|
-|---|---|---|---||1| J. S. Bach | (2022-01-23) | 0.00|
+|---|---|---|---|
+|1| J. S. Bach | (2022-01-23) | 0.00|
 |---|---|---|---|
 |2 | Björk Guðmundsdóttir | (2022-01-25)| 0.02|
 |---|---|---|---|
@@ -53,7 +55,8 @@ The results are reported as TeamName (submission date): Metric
 # Tempo Estimation
 
 |Rank |Team | Date | Average Absolute Error (bpm)|
-|---|---|---|---||1 | Sergei Rachmaninoff | (2022-01-25)| 7.21|
+|---|---|---|---|
+|1 | Sergei Rachmaninoff | (2022-01-25)| 7.21|
 |---|---|---|---|
 |2 | Fela Kuti | (2022-01-24)| 8.55|
 |---|---|---|---|
@@ -76,7 +79,8 @@ The results are reported as TeamName (submission date): Metric
 # Meter Estimation
 
 |Rank |Team | Date | Accuracy (%)|
-|---|---|---|---||1 | Hildegard von Bingen | (2022-01-25)| 35.42|
+|---|---|---|---|
+|1 | Hildegard von Bingen | (2022-01-25)| 35.42|
 |---|---|---|---|
 |1 | W. A. Mozart | (2021-12-20)| 35.42|
 |---|---|---|---|
