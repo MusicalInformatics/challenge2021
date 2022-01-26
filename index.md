@@ -4,60 +4,93 @@ The results are reported as TeamName (submission date): Metric
 
 # Alignment Task
 
-**Metric**: Median F-Score (%)
-
-1. Fela Kuti (2022-01-25): 99.15
-2. W. A. Mozart (2022-01-14): 96.89
-3. Björk Guðmundsdóttir (2022-01-04): 45.59
-3. Björk Guðmundsdóttir (2022-01-25): 45.59
-4. J. S. Bach (2022-01-23): 2.98
-5. Fela Kuti (2022-01-24): 1.70
-6. Hildegard von Bingen (2022-01-25): 1.25
-7. Baseline (2022-01-12): 1.16
-7. Sergei Rachmaninoff (2022-01-25): 1.16
-8. W. A. Mozart (2022-01-06): 0.99
+|Rank |Team | Date | Median F-Score (%)|
+|---|---|---|---||1 | Fela Kuti | (2022-01-25)| 99.15
+|---|---|---|---|
+|2 | W. A. Mozart | (2022-01-14)| 96.89
+|---|---|---|---|
+|3 | Björk Guðmundsdóttir | (2022-01-04)| 45.59
+|---|---|---|---|
+|3 | Björk Guðmundsdóttir | (2022-01-25)| 45.59
+|---|---|---|---|
+|4 | J. S. Bach | (2022-01-23)| 2.98
+|---|---|---|---|
+|5 | Fela Kuti | (2022-01-24)| 1.70
+|---|---|---|---|
+|6 | Hildegard von Bingen | (2022-01-25)| 1.25
+|---|---|---|---|
+|7 | Baseline | (2022-01-12)| 1.16
+|---|---|---|---|
+|7 | Sergei Rachmaninoff | (2022-01-25)| 1.16
+|---|---|---|---|
+|8 | W. A. Mozart | (2022-01-06)| 0.99
+|---|---|---|---|
 
 
 # Key Estimation
 
-**Metric**: Average Tonal Distance
-
-1. J. S. Bach (2022-01-23): 0.00
-2. Björk Guðmundsdóttir (2022-01-25): 0.02
-3. Hildegard von Bingen (2022-01-23): 0.04
-4. Baseline (2022-01-12): 0.23
-4. Fela Kuti (2022-01-19): 0.23
-5. W. A. Mozart (2021-01-11): 0.29
-6. Sergei Rachmaninoff (2022-01-25): 0.36
-7. Fela Kuti (2021-09-12): 0.44
-7. Fela Kuti (2022-01-25): 0.44
+|Rank |Team | Date | Average Tonal Distance|
+|---|---|---|---||1| J. S. Bach | (2022-01-23) | 0.00
+|---|---|---|---|
+|2 | Björk Guðmundsdóttir | (2022-01-25)| 0.02
+|---|---|---|---|
+|3 | Hildegard von Bingen | (2022-01-23)| 0.04
+|---|---|---|---|
+|4 | Baseline | (2022-01-12)| 0.23
+|---|---|---|---|
+|4 | Fela Kuti | (2022-01-19)| 0.23
+|---|---|---|---|
+|5 | W. A. Mozart | (2021-01-11)| 0.29
+|---|---|---|---|
+|6 | Sergei Rachmaninoff | (2022-01-25)| 0.36
+|---|---|---|---|
+|7 | Fela Kuti | (2021-09-12)| 0.44
+|---|---|---|---|
+|7 | Fela Kuti | (2022-01-25)| 0.44
+|---|---|---|---|
 
 
 # Tempo Estimation
 
-**Metric**: Average Absolute Error (bpm)
-
-1. Sergei Rachmaninoff (2022-01-25): 7.21
-2. Fela Kuti (2022-01-24): 8.55
-3. Hildegard von Bingen (2022-01-21): 8.91
-4. Hildegard von Bingen (2022-01-25): 11.67
-5. W. A. Mozart (2021-12-20): 13.11
-5. W. A. Mozart (2021-12-31): 13.11
-6. Björk Guðmundsdóttir (2022-01-25): 23.46
-7. J. S. Bach (2022-01-23): 58.13
-7. Baseline (2022-01-12): 58.13
+|Rank |Team | Date | Average Absolute Error (bpm)|
+|---|---|---|---||1 | Sergei Rachmaninoff | (2022-01-25)| 7.21
+|---|---|---|---|
+|2 | Fela Kuti | (2022-01-24)| 8.55
+|---|---|---|---|
+|3 | Hildegard von Bingen | (2022-01-21)| 8.91
+|---|---|---|---|
+|4 | Hildegard von Bingen | (2022-01-25)| 11.67
+|---|---|---|---|
+|5 | W. A. Mozart | (2021-12-20)| 13.11
+|---|---|---|---|
+|5 | W. A. Mozart | (2021-12-31)| 13.11
+|---|---|---|---|
+|6 | Björk Guðmundsdóttir | (2022-01-25)| 23.46
+|---|---|---|---|
+|7 | J. S. Bach | (2022-01-23)| 58.13
+|---|---|---|---|
+|7 | Baseline | (2022-01-12)| 58.13
+|---|---|---|---|
 
 
 # Meter Estimation
 
-**Metric**: Accuracy (%)
-
-1. Hildegard von Bingen (2022-01-25): 35.42
-1. W. A. Mozart (2021-12-20): 35.42
-2. W. A. Mozart (2021-12-31): 33.33
-3. Björk Guðmundsdóttir (2022-01-25): 27.08
-3. Sergei Rachmaninoff (2022-01-25): 27.08
-4. Hildegard von Bingen (2022-01-21): 25.00
-5. Fela Kuti (2022-01-24): 17.50
-6. J. S. Bach (2022-01-23): 8.33
-6. Baseline (2022-01-12): 8.33
+|Rank |Team | Date | Accuracy (%)|
+|---|---|---|---||1 | Hildegard von Bingen | (2022-01-25)| 35.42
+|---|---|---|---|
+|1 | W. A. Mozart | (2021-12-20)| 35.42
+|---|---|---|---|
+|2 | W. A. Mozart | (2021-12-31)| 33.33
+|---|---|---|---|
+|3 | Björk Guðmundsdóttir | (2022-01-25)| 27.08
+|---|---|---|---|
+|3 | Sergei Rachmaninoff | (2022-01-25)| 27.08
+|---|---|---|---|
+|4 | Hildegard von Bingen | (2022-01-21)| 25.00
+|---|---|---|---|
+|5 | Fela Kuti | (2022-01-24)| 17.50
+|---|---|---|---|
+|6 | J. S. Bach | (2022-01-23)| 8.33
+|---|---|---|---|
+|6 | Baseline | (2022-01-12)| 8.33
+|---|---|---|---|
